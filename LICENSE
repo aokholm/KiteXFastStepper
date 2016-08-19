@@ -1,3 +1,12 @@
+The FAST STEPPER LIBRARY is heavily inspired by 2008 Mike McCauley. 
+Use is subject to license conditions. The main licensing options available are GPL V2 or Commercial:
+
+Open Source Licensing GPL V2
+
+Please the the original license document “LICENSE Mike McCauley”
+
+If possible then any new additions are shared under MIT License: 
+
 MIT License
 
 Copyright (c) 2016 Andreas Okholm
@@ -19,3 +28,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
